@@ -7,7 +7,7 @@
 ![Docker](https://img.shields.io/badge/docker-ready-2496ED)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-> 📹 **Демо:** вставьте сюда `demo.gif` (запись экрана: вопрос → ответ с цитатой)
+
 
 ## ✨ Возможности
 
